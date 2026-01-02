@@ -1,0 +1,5 @@
+{
+  "name": "opencanvas",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
